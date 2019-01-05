@@ -101,8 +101,9 @@
     position:fixed;
     top: 45%;
     left: 50%;
-    width: 80%;
+    width: auto;
     max-width: 80%;
+    padding: 0 15px;
     transform:translate(-50%,-50%);
 
     text-align:center;
