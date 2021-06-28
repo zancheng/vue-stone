@@ -160,6 +160,7 @@
     width: $width;
     height: $height;
     font-size: $icon-size;
+    align-items: center;
   }
 
   .c-counter-inc .c-btn-icon {
